@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/.externalToolBuilders
+END
+com.google.gdt.eclipse.core.webAppProjectValidator.launch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/.externalToolBuilders/com.google.gdt.eclipse.core.webAppProjectValidator.launch
+END
+com.google.appengine.eclipse.core.enhancerbuilder.launch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/.externalToolBuilders/com.google.appengine.eclipse.core.enhancerbuilder.launch
+END
+com.google.appengine.eclipse.core.projectValidator.launch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/.externalToolBuilders/com.google.appengine.eclipse.core.projectValidator.launch
+END
